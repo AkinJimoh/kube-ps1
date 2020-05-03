@@ -89,12 +89,6 @@ There are several great tools that make using kubectl very enjoyable:
 - [`kubectx` and `kubens`](https://github.com/ahmetb/kubectx) are great for
 fast switching between clusters and namespaces.
 
-## Tmux port
-
-I have begun porting kube-ps1 to tmux as a status line plugin.  If you prefer
-tmux, and like the functionality provided by kube-ps1, checkout the
-[kube-tmux](https://github.com/jonmosco/kube-tmux) project
-
 ## Prompt Structure
 
 The default prompt layout is:
